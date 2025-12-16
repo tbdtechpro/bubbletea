@@ -1,16 +1,5 @@
 # Bubble Tea (Python Port)
 
-<p>
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://stuff.charm.sh/bubbletea/bubble-tea-v2-light.png" width="308">
-      <source media="(prefers-color-scheme: dark)" srcset="https://stuff.charm.sh/bubbletea/bubble-tea-v2-dark.png" width="312">
-      <img src="https://stuff.charm.sh/bubbletea/bubble-tea-v2-light.png" width="308" />
-    </picture>
-    <br>
-    <a href="https://pypi.org/project/bubbletea/"><img src="https://img.shields.io/pypi/v/bubbletea.svg" alt="PyPI Version"></a>
-    <a href="https://pypi.org/project/bubbletea/"><img src="https://img.shields.io/pypi/pyversions/bubbletea.svg" alt="Python Versions"></a>
-    <a href="https://github.com/charmbracelet/bubbletea"><img src="https://img.shields.io/badge/ported%20from-Go-00ADD8.svg" alt="Ported from Go"></a>
-</p>
 
 The fun, functional and stateful way to build terminal apps. A Python framework
 based on [The Elm Architecture][elm]. Bubble Tea is well-suited for simple and
@@ -19,9 +8,7 @@ complex terminal applications, either inline, full-window, or a mix of both.
 > **Note**: This is a Python port of the original [Go Bubble Tea library][original] 
 > by [Charm][charm].
 
-<p>
-    <img src="https://stuff.charm.sh/bubbletea/bubbletea-example.gif" width="100%" alt="Bubble Tea Example">
-</p>
+
 
 ### Requirements
 
